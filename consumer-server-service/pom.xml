@@ -9,7 +9,7 @@
     </parent>
 
     <groupId>com.cs</groupId>
-    <artifactId>provider</artifactId>
+    <artifactId>consumer-server-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>provider</name>
     <description>Demo project for Spring Boot</description>

@@ -1,10 +1,11 @@
-package com.cs.provider;
+package com.cs.consumerserverservice;
+
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProviderApplicationTests {
+class ConsumerServerServiceApplicationTests {
 
     @Test
     void contextLoads() {
